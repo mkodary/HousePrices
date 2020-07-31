@@ -38,4 +38,4 @@ Simple Analysis for the problem is provider in this [article][medium-post]
    [pip-install]: <https://pip.pypa.io/en/stable/installing/>
    [env-install]: <https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/>
    [dataset]: <http://jse.amstat.org/v19n3/decock.pdf>
-   [medium-post]: <https://medium.com/@khodary94/how-to-estimate-the-price-of-a-house-763c82479f80?source=friends_link&sk=5d1784cfdf74d9eb438fdc9c493c411a>
+   [medium-post]: <https://medium.com/@mkodary/how-to-estimate-the-price-of-a-house-763c82479f80>
