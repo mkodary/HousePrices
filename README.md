@@ -5,6 +5,7 @@
 - [Motivation](#motivation)
 - [Content](#content)
 - [Installation](#installation)
+- [Analysis](#analysis)
 
 ### Motivation <a name="motivation"></a>
 People face problems in evaluating the price of the houses because of the complexity and the number of factors involved in the process, for instance, the square feet of living space, number of bathrooms, or the date of construction …etc. Therefore, people struggle to give the houses the value they deserve by using a systematic and reliable criterion.
@@ -28,9 +29,13 @@ $ pip install requirements.txt
 $ jupyter notebook
 ```
 
+### Analysis <a name="analysis"></a>
+Simple Analysis for the problem is provider in this [article][medium-post]
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
    [pip-install]: <https://pip.pypa.io/en/stable/installing/>
    [env-install]: <https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/>
    [dataset]: <http://jse.amstat.org/v19n3/decock.pdf>
+   [medium-post]: <https://medium.com/@khodary94/how-to-estimate-the-price-of-a-house-763c82479f80?source=friends_link&sk=5d1784cfdf74d9eb438fdc9c493c411a>
